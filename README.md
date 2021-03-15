@@ -7,5 +7,4 @@
 - Der Folder /src/test/java muss als test root markiert sein
 - Der Folder /src/test/resoures muss als test resource folder markiert sein
 - Schreiben Sie Ihre Testcases unter /test/java/
-- Im Order resources können Files mit Testdaten abgelegt werden
-- Eine Klasse TestUtils steht zur Verfügung, der nur der Filenamen übergeben werden muss und die Zeilen als String zurückliefert
+
